@@ -10,23 +10,23 @@ Welcome to mytest's documentation!
    :maxdepth: 2
    :caption: Introduction
 
-   src/historydb_motivation.md
-   src/historydb_features.md
+   src/historydb_motivation
+   src/historydb_features
 
 .. toctree::
    :maxdepth: 2
    :caption: UserGuide
 
-   src/userguide_funceval.md
-   src/usreguide_surrogatemodel.md
+   src/userguide_funceval
+   src/usreguide_surrogatemodel
 
 .. toctree::
    :maxdepth: 2
    :caption: CK-GPTune
 
-   src/ckgptune_background.md
-   src/ckgptune_installation.md
-   src/ckgptune_examples.md
+   src/ckgptune_background
+   src/ckgptune_installation
+   src/ckgptune_examples
 
 Indices and tables
 ==================
