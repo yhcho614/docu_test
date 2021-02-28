@@ -8,9 +8,25 @@ Welcome to mytest's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Introduction
 
+   src/historydb_motivation.md
+   src/historydb_features.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: UserGuide
+
+   src/userguide_funceval.md
+   src/usreguide_surrogatemodel.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: CK-GPTune
+
+   src/ckgptune_background.md
+   src/ckgptune_installation.md
+   src/ckgptune_examples.md
 
 Indices and tables
 ==================
